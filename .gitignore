@@ -1,0 +1,9 @@
+# Local build artifacts
+*.exe
+*.out
+*.o
+*.obj
+
+# Editor-generated scratch files
+tempCodeRunnerFile.cpp
+.vscode/
