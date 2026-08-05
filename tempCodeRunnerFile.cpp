@@ -1,1 +1,0 @@
-https://programming.in.th/tasks/toi20_bit_string
